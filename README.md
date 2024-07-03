@@ -1,4 +1,4 @@
 # my-repository
 My first repository 
 <br>
-author - Musharraf
+author - Mohammed Musharraf Khan
